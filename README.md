@@ -7,6 +7,7 @@
   <img alt="Python 3.10 and newer" src="https://img.shields.io/badge/Python-3.10%2B-5eb9ad?style=flat-square">
   <img alt="MIT license" src="https://img.shields.io/badge/license-MIT-819dcf?style=flat-square">
   <img alt="102 tests passed locally" src="https://img.shields.io/badge/local_tests-102_passed-7fba80?style=flat-square">
+  <a href="https://doi.org/10.5281/zenodo.23323946"><img alt="DOI: 10.5281/zenodo.23323946" src="https://zenodo.org/badge/DOI/10.5281/zenodo.23323946.svg"></a>
 </p>
 
 **Reproducible X-ray photoelectron spectroscopy analysis, from spectrum to
@@ -142,6 +143,18 @@ speed ratios; this is a workload-specific result, not a universal performance cl
 
 Use [`CITATION.cff`](CITATION.cff) to cite the software in research. The project is
 distributed under the [MIT license](LICENSE).
+
+**Version 0.2.0 is archived on Zenodo:**
+[10.5281/zenodo.23323946](https://doi.org/10.5281/zenodo.23323946).
+
+```text
+Afruz, A. (2026). XPS-master (Version 0.2.0) [Computer software]. Zenodo.
+https://doi.org/10.5281/zenodo.23323946
+```
+
+The [all-versions DOI](https://doi.org/10.5281/zenodo.23323945) identifies the
+software across its archived versions. Cite the version DOI above when reporting
+results produced with version 0.2.0.
 
 ---
 

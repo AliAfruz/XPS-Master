@@ -3,6 +3,8 @@ message: "If you use XPS-master in your research, please cite this software."
 type: software
 title: "XPS-master"
 version: "0.2.0"
+doi: "10.5281/zenodo.23323946"
+date-released: "2026-10-12"
 authors:
   - family-names: "Afruz"
     given-names: "Ali"

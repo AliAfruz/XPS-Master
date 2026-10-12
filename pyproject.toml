@@ -46,6 +46,7 @@ xps-master = "xps_afruz.ui.app:main"
 Homepage = "https://chemitro.ir"
 Repository = "https://github.com/AliAfruz/XPS-Master"
 Issues = "https://github.com/AliAfruz/XPS-Master/issues"
+Zenodo = "https://doi.org/10.5281/zenodo.23323946"
 
 [project.optional-dependencies]
 dev = ["pytest>=7.4"]

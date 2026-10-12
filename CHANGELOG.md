@@ -22,9 +22,11 @@
 - Illustrated README, real application screenshots, and reproducible synthetic
   fitting showcase.
 - Citation metadata, contribution guide, issue templates, and upload guide.
-- Desktop command `xps-afruz` and clean source-distribution packaging.
+- Desktop command `xps-master` and clean source-distribution packaging.
 - Resizable workspace height for inspecting complete spectrum cards.
 - Citation metadata and instructions for a later Zenodo DOI release.
+- Version 0.2.0 archived on Zenodo with
+  [DOI 10.5281/zenodo.23323946](https://doi.org/10.5281/zenodo.23323946).
 
 ### Validation
 
