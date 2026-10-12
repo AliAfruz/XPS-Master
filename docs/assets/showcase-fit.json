@@ -1,0 +1,83 @@
+{
+  "kind": "synthetic illustration",
+  "author": "Ali Afruz",
+  "email": "a.a.afruz@gmail.com",
+  "website": "https://chemitro.ir",
+  "random_seed": 41407,
+  "samples": 1000,
+  "profile": "pseudo_voigt",
+  "weighting": "poisson",
+  "count_scale": 1.0,
+  "background": {
+    "method": "known synthetic linear",
+    "intercept": 58.0,
+    "slope": 2.6
+  },
+  "truth": [
+    {
+      "center": 284.45,
+      "fwhm": 1.15,
+      "area": 1580.0,
+      "eta": 0.3
+    },
+    {
+      "center": 286.05,
+      "fwhm": 1.4,
+      "area": 740.0,
+      "eta": 0.42
+    },
+    {
+      "center": 288.35,
+      "fwhm": 1.55,
+      "area": 440.0,
+      "eta": 0.5
+    }
+  ],
+  "parameters": {
+    "Component 01.center": 284.4441915473761,
+    "Component 01.fwhm": 1.145002166660711,
+    "Component 01.area": 1526.3760338358659,
+    "Component 01.eta": 0.2620144932393146,
+    "Component 01.asymmetry": 0.0,
+    "Component 01.instrument_fwhm": 0.0,
+    "Component 02.center": 286.0370667433889,
+    "Component 02.fwhm": 1.4423629436679701,
+    "Component 02.area": 823.6114631246634,
+    "Component 02.eta": 0.5880439523013652,
+    "Component 02.asymmetry": 0.0,
+    "Component 02.instrument_fwhm": 0.0,
+    "Component 03.center": 288.3826236527138,
+    "Component 03.fwhm": 1.4602886284639267,
+    "Component 03.area": 413.3797469190098,
+    "Component 03.eta": 0.5030081005686154,
+    "Component 03.asymmetry": 0.0,
+    "Component 03.instrument_fwhm": 0.0
+  },
+  "standard_errors": {
+    "Component 01.center": 0.003279189688204528,
+    "Component 01.fwhm": 0.007060256012667324,
+    "Component 01.area": 23.757615999683644,
+    "Component 01.eta": 0.02405007340383726,
+    "Component 01.asymmetry": 0.0,
+    "Component 01.instrument_fwhm": 0.0,
+    "Component 02.center": 0.008825608624909527,
+    "Component 02.fwhm": 0.025015542967804748,
+    "Component 02.area": 42.51741456543302,
+    "Component 02.eta": 0.09109881877923638,
+    "Component 02.asymmetry": 0.0,
+    "Component 02.instrument_fwhm": 0.0,
+    "Component 03.center": 0.012758790535590784,
+    "Component 03.fwhm": 0.03282173533477662,
+    "Component 03.area": 17.898764723162028,
+    "Component 03.eta": 0.0518845607088642,
+    "Component 03.asymmetry": 0.0,
+    "Component 03.instrument_fwhm": 0.0
+  },
+  "objective": "poisson_deviance",
+  "deviance": 989.7196273128164,
+  "pearson_chi_square": 990.1468714338226,
+  "degrees_of_freedom": 988,
+  "jacobian_rank": 12,
+  "fit_warnings": [],
+  "data_sha256": "e0df229a2bc1af84767b96ff104e7640d5d93d41db29c72ab1c32ec887dd35ec"
+}

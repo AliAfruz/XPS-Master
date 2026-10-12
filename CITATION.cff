@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use XPS-master in your research, please cite this software."
+type: software
+title: "XPS-master"
+version: "0.2.0"
+authors:
+  - family-names: "Afruz"
+    given-names: "Ali"
+    email: "a.a.afruz@gmail.com"
+    website: "https://chemitro.ir"
+url: "https://chemitro.ir"
+repository-code: "https://github.com/AliAfruz/XPS-Master"
+license: MIT
+abstract: >-
+  Python desktop software for reproducible X-ray photoelectron spectroscopy
+  analysis, constrained peak fitting, survey screening, likelihood-based model
+  comparison, global multi-spectrum fitting, and publication figures.
+keywords:
+  - XPS
+  - X-ray photoelectron spectroscopy
+  - peak fitting
+  - surface analysis
+  - reproducible research

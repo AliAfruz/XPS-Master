@@ -1,0 +1,32 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+build/
+dist/
+*.egg-info/
+reports/
+.coverage
+htmlcov/
+.ruff_cache/
+.mypy_cache/
+*.log
+*.xpsa.autosave
+
+# Local instrument/project data: keep experimental spectra out of Git unless
+# a deliberately anonymized fixture is force-added under tests/data.
+*.VGD
+*.vgd
+*.xpsa
+
+# Local archives, editor state, and machine-specific settings.
+*.zip
+*.7z
+*.tar.gz
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.env
+.env.*
+!.env.example

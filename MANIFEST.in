@@ -1,0 +1,11 @@
+include README.md LICENSE CITATION.cff CHANGELOG.md CONTRIBUTING.md
+include run.py run.bat
+recursive-include docs *.md *.png *.svg *.json
+recursive-include examples *.py *.csv
+recursive-include tests *.py
+recursive-include .github *.md *.yml
+global-exclude *.py[cod]
+prune .venv
+prune reports
+prune build
+prune dist
